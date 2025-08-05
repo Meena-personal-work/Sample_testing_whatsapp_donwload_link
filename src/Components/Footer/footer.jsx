@@ -27,13 +27,13 @@ const Footer = () => {
             delivery and excellent customer support.
           </p>
           <div className="footer-socials">
-            <a href="#">
+            <a href="https://www.facebook.com/">
               <FontAwesomeIcon icon={faFacebook} />
             </a>
-            <a href="#">
+            <a href="https://www.instagram.com/">
               <FontAwesomeIcon icon={faInstagram} />
             </a>
-            <a href="#">
+            <a href="https://www.whatsapp.com/">
               <FontAwesomeIcon icon={faWhatsapp} />
             </a>
           </div>

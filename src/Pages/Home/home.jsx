@@ -10,7 +10,7 @@ const Home = () => {
 
     return (
         <div className="home-container">
-            <img className="home-banner" src="./crackers-website-banner3.jpg"></img>
+            <img className="home-banner" src="./crackers-website-banner3.jpg" alt="home banner"></img>
             <Counter />
 <Highlights />
 <MarqueeItems />

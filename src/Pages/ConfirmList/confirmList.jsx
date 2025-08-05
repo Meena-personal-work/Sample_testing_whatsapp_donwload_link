@@ -648,7 +648,6 @@ import React, { useState, useRef, useEffect } from "react";
 import { useNavigate } from "react-router-dom";
 import confetti from "canvas-confetti";
 import {
-  PDFDownloadLink,
   Document,
   Page,
   Text,

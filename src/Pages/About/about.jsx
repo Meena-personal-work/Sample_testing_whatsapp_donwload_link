@@ -10,7 +10,7 @@ const About = () => {
 
   return (
     <div className="about-container">
-             <img src="./crackers-website-banner2.jpg"></img>
+             <img src="./crackers-website-banner2.jpg" alt='banner'></img>
 
       <h2 className="about-heading" data-aos="fade-down">About Us</h2>
 
